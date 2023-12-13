@@ -1,3 +1,4 @@
+![image](https://github.com/Kalash-Mathanker/React_Password_Generator/assets/114083217/0b28b528-267c-4be5-8ab1-66fe9b083897)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
